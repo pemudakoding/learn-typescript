@@ -1,0 +1,1 @@
+const MyCanvas = <HTMLCanvasElement>document.getElementById("main_canvas");
